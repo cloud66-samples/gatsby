@@ -1,0 +1,5 @@
+[build.environment]
+  BUILD_VAR_FROM_NETLIFY = "somevalue"
+
+[context.production]
+  environment = { ENV_CONTEXT_VAR = "someothervalue" }
