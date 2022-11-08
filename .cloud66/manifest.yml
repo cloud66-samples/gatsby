@@ -1,3 +1,4 @@
 prepress:
   configuration:
     build_command: gatsby build
+    node_version: 18
